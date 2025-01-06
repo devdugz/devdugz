@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Connor Duggan!
+# 👋 Hello, I'm Connor!
 
 Welcome to my GitHub! I'm an **Aspiring Full-Stack Software Developer** with a passion for building innovative, user-focused applications. With a unique blend of technical skills and creativity, I love tackling challenges, learning new technologies, and bringing ideas to life through code.
 
