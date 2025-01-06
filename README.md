@@ -41,8 +41,8 @@ Welcome to my GitHub! I'm an **Aspiring Full-Stack Software Developer** with a p
 
 ## 📊 GitHub Stats
 
-![Connor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight)
+![Connor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=devdugz&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devdugz&layout=compact&theme=tokyonight)
 
 ---
 
@@ -56,6 +56,6 @@ Welcome to my GitHub! I'm an **Aspiring Full-Stack Software Developer** with a p
 
 ## 📬 Let's Connect!
 
-- **LinkedIn:** [linkedin.com/in/connorduggan](https://linkedin.com/in/connorduggan)  
-- **Portfolio:** [your-portfolio-url](https://your-portfolio-url.com)  
-- **Email:** [music@cdugz.com](mailto:music@cdugz.com)
+- **LinkedIn:** [linkedin.com/in/connorduggan](https://linkedin.com/in/devdugz)  
+- **Portfolio:** [your-portfolio-url](https://devdugz.com)  
+- **Email:** [music@cdugz.com](mailto:devdugz@gmail.com)
