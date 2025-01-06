@@ -56,6 +56,6 @@ Welcome to my GitHub! I'm an **Aspiring Full-Stack Software Developer** with a p
 
 ## 📬 Let's Connect!
 
-- **LinkedIn:** [linkedin.com/in/connorduggan](https://linkedin.com/in/devdugz)  
-- **Portfolio:** [your-portfolio-url](https://devdugz.com)  
-- **Email:** [music@cdugz.com](mailto:devdugz@gmail.com)
+- **LinkedIn:** [linkedin.com/in/devdugz](https://linkedin.com/in/devdugz)  
+- **Portfolio:** [https://devdugz.coml](https://devdugz.com)  
+- **Email:** [devdugz@gmail.com](mailto:devdugz@gmail.com)
