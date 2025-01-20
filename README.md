@@ -46,10 +46,10 @@ Welcome to my GitHub! I'm a **Full-Stack Software Developer** with a passion for
 
 ## 🛠️ Projects
 
-- **[Producitivty App]([https://github.com/devdugz/Productivity-App-Frontend]):** A full-stack productivity application built with React and Ruby on Rails, featuring Pomodoro timer, study sessions, and task management.
-- **[Magic Mirror]([https://github.com/devdugz/MagicMirror]):** A smart mirror built with a Raspberry Pi, featuring dynamic widgets like weather updates and calendars.
-- **[Booking Automation Script]([https://github.com/devdugz/PGA_Booking_Script]):** Automated booking system for PGA golf practice bays using Python and Selenium WebDriver.
-- **[Golf Hole-in-One Predictor]([https://github.com/devdugz/GolfPredictor]):** A C++ and web-based tool for calculating hole-in-one probabilities with a responsive user interface.
+- **[Producitivty App](https://github.com/devdugz/Productivity-App-Frontend):** A full-stack productivity application built with React and Ruby on Rails, featuring Pomodoro timer, study sessions, and task management.
+- **[Magic Mirror](https://github.com/devdugz/MagicMirror):** A smart mirror built with a Raspberry Pi, featuring dynamic widgets like weather updates and calendars.
+- **[Booking Automation Script](https://github.com/devdugz/PGA_Booking_Script):** Automated booking system for PGA golf practice bays using Python and Selenium WebDriver.
+- **[Golf Hole-in-One Predictor](https://github.com/devdugz/GolfPredictor):** A C++ and web-based tool for calculating hole-in-one probabilities with a responsive user interface.
 
 ---
 
